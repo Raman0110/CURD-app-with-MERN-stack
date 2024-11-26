@@ -1,1 +1,1 @@
-This project is build using MERN stack. I used Node/Express js to create rest api which performs CRUD operation to our MongoDB database with the help of mongoose then i fetched the data in react using axios. User can see student details add student, update details and delete student.
+This project is build using MERN stack.Node/Express js to create rest api which performs CRUD operation to our MongoDB database then i fetched the data in react using axios.
